@@ -1,0 +1,5 @@
+{
+  "name": "Stripe Connect Strategy Explorer",
+  "description": "A strategic mapping tool for platform architects to visualize global payment coverage gaps and identify the best secondary integration to complement Stripe Connect.",
+  "requestFramePermissions": []
+}
